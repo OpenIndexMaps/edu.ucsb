@@ -1,0 +1,5660 @@
+{
+    "type" : "FeatureCollection",
+    "name" : "Chile 1:100,000",
+    "features" : [
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -18.499999999999886,
+                    -69.99999999999991,
+                    -17.999999999999986
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -18.499999999999886
+                        ],
+                        [-70.5, -18],
+                        [-69.99999999999994, -18],
+                        [
+                            -69.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -70.5,
+                            -18.499999999999886
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-3",
+                "title" : "Africa 1800-7000",
+                "date" : "1965",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -18.5,
+                "east" : -70,
+                "north" : -18
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -18.999999999999943,
+                    -69.99999999999991,
+                    -18.499999999999865
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -18.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -18.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-6",
+                "title" : "Chaca 1830-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -19,
+                "east" : -70,
+                "north" : -18.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -19.499999999999943,
+                    -69.99999999999991,
+                    -18.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -19.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -19.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-10",
+                "title" : "Cuya 1900-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -19.5,
+                "east" : -70,
+                "north" : -19
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -19.999999999999943,
+                    -69.99999999999991,
+                    -19.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -19.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -19.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-15",
+                "title" : "Pisagua 1930-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -20,
+                "east" : -70,
+                "north" : -19.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -20.5,
+                    -69.99999999999991,
+                    -19.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -20.5],
+                        [
+                            -70.5,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -20.5
+                        ],
+                        [-70.5, -20.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-19",
+                "title" : "Iquique 2000-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -20.5,
+                "east" : -70,
+                "north" : -20
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -21.5,
+                    -69.99999999999991,
+                    -21.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -21.5],
+                        [-70.5, -21],
+                        [-69.99999999999994, -21],
+                        [
+                            -69.99999999999994,
+                            -21.5
+                        ],
+                        [-70.5, -21.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-1",
+                "title" : "Guanillos Del Norte 2100-7000",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -21.5,
+                "east" : -70,
+                "north" : -21
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -21,
+                    -69.99999999999991,
+                    -20.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -21],
+                        [-70.5, -20.5],
+                        [
+                            -69.99999999999994,
+                            -20.5
+                        ],
+                        [-69.99999999999994, -21],
+                        [-70.5, -21]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-23",
+                "title" : "Patillos 2030-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -21,
+                "east" : -70,
+                "north" : -20.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -22,
+                    -69.99999999999991,
+                    -21.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -22],
+                        [-70.5, -21.5],
+                        [
+                            -69.99999999999994,
+                            -21.5
+                        ],
+                        [-69.99999999999994, -22],
+                        [-70.5, -22]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-6",
+                "title" : "Caleta Lautara 2130-7000",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -22,
+                "east" : -70,
+                "north" : -21.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -22.5,
+                    -69.99999999999991,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -22.5],
+                        [-70.5, -22],
+                        [-69.99999999999994, -22],
+                        [
+                            -69.99999999999994,
+                            -22.5
+                        ],
+                        [-70.5, -22.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-11",
+                "title" : "Tocopilla 2200-7000",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -22.5,
+                "east" : -70,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -22.999999999999943,
+                    -69.99999999999991,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -22.999999999999943
+                        ],
+                        [-70.5, -22.5],
+                        [
+                            -69.99999999999994,
+                            -22.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-17",
+                "title" : "Michilla 2230-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -23,
+                "east" : -70,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -23.499999999999943,
+                    -70.50000000000001,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -23.499999999999943],
+                        [-71, -22.999999999999943],
+                        [
+                            -70.5,
+                            -22.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -23.499999999999943
+                        ],
+                        [-71, -23.499999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-24",
+                "title" : "Peninsula De Mejillones 2300-7030",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -23.5,
+                "east" : -70.5,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -23.499999999999943,
+                    -69.99999999999991,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -23.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-25",
+                "title" : "Mejillones 2300-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -23.5,
+                "east" : -70,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -23.999999999999943,
+                    -70.50000000000001,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -23.999999999999943],
+                        [-71, -23.499999999999943],
+                        [
+                            -70.5,
+                            -23.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -23.999999999999943
+                        ],
+                        [-71, -23.999999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-32",
+                "title" : "Punta Tetas 2330-7030",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -24,
+                "east" : -70.5,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -23.999999999999943,
+                    -69.99999999999991,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -23.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-33",
+                "title" : "Antofagasta 2330-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -24,
+                "east" : -70,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -24.5,
+                    -70.50000000000001,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -24.5],
+                        [-71, -23.999999999999943],
+                        [
+                            -70.5,
+                            -23.999999999999943
+                        ],
+                        [-70.5, -24.5],
+                        [-71, -24.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-40",
+                "title" : "Blanco Encalada 2400-7030",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -24.5,
+                "east" : -70.5,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -25.5,
+                    -70.50000000000001,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -25.5],
+                        [-71, -25],
+                        [-70.5, -25],
+                        [-70.5, -25.5],
+                        [-71, -25.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-1",
+                "title" : "Bahia Isla Blanca 2500-7030",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -25.5,
+                "east" : -70.5,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -25,
+                    -70.50000000000001,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -25],
+                        [-71, -24.5],
+                        [-70.5, -24.5],
+                        [-70.5, -25],
+                        [-71, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-48",
+                "title" : "Punta Posallaves 2430-7030",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -25,
+                "east" : -70.5,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -24.5,
+                    -69.99999999999991,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -24.5],
+                        [
+                            -70.5,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -24.5
+                        ],
+                        [-70.5, -24.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-41",
+                "title" : "Pampa Remiendo 2400-7000",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -24.5,
+                "east" : -70,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -25.5,
+                    -69.99999999999991,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -25.5],
+                        [-70.5, -25],
+                        [-69.99999999999994, -25],
+                        [
+                            -69.99999999999994,
+                            -25.5
+                        ],
+                        [-70.5, -25.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-2",
+                "title" : "Taltal 2500-7000",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -25.5,
+                "east" : -70,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -25,
+                    -69.99999999999991,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -25],
+                        [-70.5, -24.5],
+                        [
+                            -69.99999999999994,
+                            -24.5
+                        ],
+                        [-69.99999999999994, -25],
+                        [-70.5, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-49",
+                "title" : "Sierra Vicuña Mackenna 2430-7000",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -25,
+                "east" : -70,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -24.5,
+                    -69.49999999999996,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -24.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -24.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -24.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-42",
+                "title" : "Aguas Blancas 2400-6930",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -24.5,
+                "east" : -69.5,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -25.5,
+                    -69.49999999999996,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -25.5
+                        ],
+                        [-69.99999999999994, -25],
+                        [-69.49999999999994, -25],
+                        [
+                            -69.49999999999994,
+                            -25.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -25.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-3",
+                "title" : "Catalina 2500-6930",
+                "date" : "1964",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -25.5,
+                "east" : -69.5,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -25,
+                    -69.49999999999996,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.99999999999994, -25],
+                        [
+                            -69.99999999999994,
+                            -24.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -24.5
+                        ],
+                        [-69.49999999999994, -25],
+                        [-69.99999999999994, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-50",
+                "title" : "Los Vientos 2430-6930",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -25,
+                "east" : -69.5,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -18,
+                    -69.49999999999996,
+                    -17.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.99999999999994, -18],
+                        [
+                            -69.99999999999994,
+                            -17.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -17.5
+                        ],
+                        [-69.49999999999994, -18],
+                        [-69.99999999999994, -18]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-1",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -18,
+                "east" : -69.5,
+                "north" : -17.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -18.499999999999886,
+                    -69.49999999999996,
+                    -17.999999999999986
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [-69.99999999999994, -18],
+                        [-69.49999999999994, -18],
+                        [
+                            -69.49999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.499999999999886
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-4",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -18.5,
+                "east" : -69.5,
+                "north" : -18
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -18.999999999999943,
+                    -69.49999999999996,
+                    -18.499999999999865
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-7",
+                "title" : "Codpa 1830-6930",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -19,
+                "east" : -69.5,
+                "north" : -18.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -19.499999999999943,
+                    -69.49999999999996,
+                    -18.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-11",
+                "title" : "Miñimiñi",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -19.5,
+                "east" : -69.5,
+                "north" : -19
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -19.999999999999943,
+                    -69.49999999999996,
+                    -19.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-16",
+                "title" : "Zapiga 1930-6930",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -20,
+                "east" : -69.5,
+                "north" : -19.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -20.5,
+                    -69.49999999999996,
+                    -19.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -20.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -20.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -20.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-20",
+                "title" : "Pozo Almonte 2000-6930",
+                "date" : "1965",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -20.5,
+                "east" : -69.5,
+                "north" : -20
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -21.5,
+                    -69.49999999999996,
+                    -21.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -21.5
+                        ],
+                        [-69.99999999999994, -21],
+                        [-69.49999999999994, -21],
+                        [
+                            -69.49999999999994,
+                            -21.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -21.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-2",
+                "title" : "Salar De Llamara 2100-6930",
+                "date" : "1965",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "2",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -21.5,
+                "east" : -69.5,
+                "north" : -21
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -21,
+                    -69.49999999999996,
+                    -20.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.99999999999994, -21],
+                        [
+                            -69.99999999999994,
+                            -20.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -20.5
+                        ],
+                        [-69.49999999999994, -21],
+                        [-69.99999999999994, -21]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-24",
+                "title" : "Oficina Victoria 2030-6930",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -21,
+                "east" : -69.5,
+                "north" : -20.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -21.5,
+                    -68.99999999999996,
+                    -21.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -21.5
+                        ],
+                        [-69.49999999999994, -21],
+                        [-68.99999999999994, -21],
+                        [
+                            -68.99999999999994,
+                            -21.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -21.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-3",
+                "title" : "Ramaditas 2100-6900",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -21.5,
+                "east" : -69,
+                "north" : -21
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -21,
+                    -68.99999999999996,
+                    -20.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.49999999999994, -21],
+                        [
+                            -69.49999999999994,
+                            -20.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -20.5
+                        ],
+                        [-68.99999999999994, -21],
+                        [-69.49999999999994, -21]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-25",
+                "title" : "Guatacondo 2030-6900",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -21,
+                "east" : -69,
+                "north" : -20.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -18,
+                    -68.99999999999996,
+                    -17.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.49999999999994, -18],
+                        [
+                            -69.49999999999994,
+                            -17.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -17.5
+                        ],
+                        [-68.99999999999994, -18],
+                        [-69.49999999999994, -18]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-2",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -18,
+                "east" : -69,
+                "north" : -17.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -18.499999999999886,
+                    -68.99999999999996,
+                    -17.999999999999986
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -18.499999999999886
+                        ],
+                        [-69.49999999999994, -18],
+                        [-68.99999999999994, -18],
+                        [
+                            -68.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.499999999999886
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-5",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -18.5,
+                "east" : -69,
+                "north" : -18
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -18.999999999999943,
+                    -68.99999999999996,
+                    -18.499999999999865
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-8",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -19,
+                "east" : -69,
+                "north" : -18.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -19.499999999999943,
+                    -68.99999999999996,
+                    -18.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-12",
+                "title" : "Camiña",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -19.5,
+                "east" : -69,
+                "north" : -19
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -19.999999999999943,
+                    -68.99999999999996,
+                    -19.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-17",
+                "title" : "Guaviña 1930-6900",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -20,
+                "east" : -69,
+                "north" : -19.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -20.5,
+                    -68.99999999999996,
+                    -19.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -20.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -20.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -20.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-21",
+                "title" : "Mamiña",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -20.5,
+                "east" : -69,
+                "north" : -20
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -21.5,
+                    -68.49999999999986,
+                    -21.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -21.5
+                        ],
+                        [-68.99999999999994, -21],
+                        [-68.49999999999989, -21],
+                        [
+                            -68.49999999999989,
+                            -21.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -21.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-4",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -21.5,
+                "east" : -68.5,
+                "north" : -21
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -21,
+                    -68.49999999999986,
+                    -20.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.99999999999994, -21],
+                        [
+                            -68.99999999999994,
+                            -20.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -20.5
+                        ],
+                        [-68.49999999999989, -21],
+                        [-68.99999999999994, -21]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-26",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -21,
+                "east" : -68.5,
+                "north" : -20.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -18.999999999999943,
+                    -68.49999999999986,
+                    -18.499999999999865
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.499999999999886
+                        ],
+                        [
+                            -68.49999999999989,
+                            -18.499999999999886
+                        ],
+                        [
+                            -68.49999999999989,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-9",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -19,
+                "east" : -68.5,
+                "north" : -18.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -19.499999999999943,
+                    -68.49999999999986,
+                    -18.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -18.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-13",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -19.5,
+                "east" : -68.5,
+                "north" : -19
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -19.999999999999943,
+                    -68.49999999999986,
+                    -19.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-18",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -20,
+                "east" : -68.5,
+                "north" : -19.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -20.5,
+                    -68.49999999999986,
+                    -19.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -20.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -19.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -20.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -20.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-22",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -20.5,
+                "east" : -68.5,
+                "north" : -20
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -22,
+                    -69.49999999999996,
+                    -21.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.99999999999994, -22],
+                        [
+                            -69.99999999999994,
+                            -21.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -21.5
+                        ],
+                        [-69.49999999999994, -22],
+                        [-69.99999999999994, -22]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-7",
+                "title" : "Quillagua 2130-6930",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -22,
+                "east" : -69.5,
+                "north" : -21.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -22,
+                    -68.99999999999996,
+                    -21.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.49999999999994, -22],
+                        [
+                            -69.49999999999994,
+                            -21.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -21.5
+                        ],
+                        [-68.99999999999994, -22],
+                        [-69.49999999999994, -22]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-8",
+                "title" : "Sierra De Moreno 2130-6900",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -22,
+                "east" : -69,
+                "north" : -21.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -22,
+                    -68.49999999999986,
+                    -21.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.99999999999994, -22],
+                        [
+                            -68.99999999999994,
+                            -21.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -21.5
+                        ],
+                        [-68.49999999999989, -22],
+                        [-68.99999999999994, -22]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-9",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -22,
+                "east" : -68.5,
+                "north" : -21.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -22.5,
+                    -69.49999999999996,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -22.5
+                        ],
+                        [-69.99999999999994, -22],
+                        [-69.49999999999994, -22],
+                        [
+                            -69.49999999999994,
+                            -22.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-12",
+                "title" : "Maria Elena 2200-6930",
+                "date" : "1962",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -22.5,
+                "east" : -69.5,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -22.5,
+                    -68.99999999999996,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -22.5
+                        ],
+                        [-69.49999999999994, -22],
+                        [-68.99999999999994, -22],
+                        [
+                            -68.99999999999994,
+                            -22.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-13",
+                "title" : "Rio San Salvador 2200-6900",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -22.5,
+                "east" : -69,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -22.5,
+                    -68.49999999999986,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -22.5
+                        ],
+                        [-68.99999999999994, -22],
+                        [-68.49999999999989, -22],
+                        [
+                            -68.49999999999989,
+                            -22.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-14",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -22.5,
+                "east" : -68.5,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -22.999999999999943,
+                    -69.49999999999996,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-18",
+                "title" : "Pedro De Valdivia 2230-6930",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -23,
+                "east" : -69.5,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -22.999999999999943,
+                    -68.99999999999996,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-19",
+                "title" : "Sierra Gorda 2230-6900",
+                "date" : "1959",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -23,
+                "east" : -69,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -22.999999999999943,
+                    -68.49999999999986,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -22.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-20",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -23,
+                "east" : -68.5,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -23.499999999999943,
+                    -69.49999999999996,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-26",
+                "title" : "Baquedano 2300-6930",
+                "date" : "1962",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -23.5,
+                "east" : -69.5,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -23.499999999999943,
+                    -68.99999999999996,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-27",
+                "title" : "Pampa Union 2300-6900",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -23.5,
+                "east" : -69,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -23.499999999999943,
+                    -68.49999999999986,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-28",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -23.5,
+                "east" : -68.5,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -23.999999999999943,
+                    -69.49999999999996,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-34",
+                "title" : "Palestina 2330-6930",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -24,
+                "east" : -69.5,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -23.999999999999943,
+                    -68.99999999999996,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-35",
+                "title" : "Oficina Domeyko 2330-6900",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -24,
+                "east" : -69,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -23.999999999999943,
+                    -68.49999999999986,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-36",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -24,
+                "east" : -68.5,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -24.5,
+                    -68.99999999999996,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -24.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -24.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -24.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-43",
+                "title" : "Augusta Victoria 2400-6900",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -24.5,
+                "east" : -69,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -24.5,
+                    -68.49999999999986,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -24.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -24.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -24.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-44",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -24.5,
+                "east" : -68.5,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -25.5,
+                    -68.99999999999996,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -25.5
+                        ],
+                        [-69.49999999999994, -25],
+                        [-68.99999999999994, -25],
+                        [
+                            -68.99999999999994,
+                            -25.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -25.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-4",
+                "title" : "Quintero 3230-7130",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -25.5,
+                "east" : -69,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -25,
+                    -68.99999999999996,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.49999999999994, -25],
+                        [
+                            -69.49999999999994,
+                            -24.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -24.5
+                        ],
+                        [-68.99999999999994, -25],
+                        [-69.49999999999994, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-51",
+                "title" : "Sierra De Varas 2430-6900",
+                "date" : "1960",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -25,
+                "east" : -69,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -25.5,
+                    -68.49999999999986,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -25.5
+                        ],
+                        [-68.99999999999994, -25],
+                        [-68.49999999999989, -25],
+                        [
+                            -68.49999999999989,
+                            -25.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -25.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-5",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -25.5,
+                "east" : -68.5,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -25,
+                    -68.49999999999986,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.99999999999994, -25],
+                        [
+                            -68.99999999999994,
+                            -24.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -24.5
+                        ],
+                        [-68.49999999999989, -25],
+                        [-68.99999999999994, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-52",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -25,
+                "east" : -68.5,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -19.499999999999943,
+                    -67.99999999999999,
+                    -18.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -19.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -18.999999999999943
+                        ],
+                        [-68, -18.999999999999943],
+                        [-68, -19.499999999999943],
+                        [
+                            -68.49999999999989,
+                            -19.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-14",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -19.5,
+                "east" : -68,
+                "north" : -19
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -21.5,
+                    -67.99999999999999,
+                    -21.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -21.5
+                        ],
+                        [-68.49999999999989, -21],
+                        [-68, -21],
+                        [-68, -21.5],
+                        [
+                            -68.49999999999989,
+                            -21.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-5",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -21.5,
+                "east" : -68,
+                "north" : -21
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -21,
+                    -67.99999999999999,
+                    -20.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.49999999999989, -21],
+                        [
+                            -68.49999999999989,
+                            -20.5
+                        ],
+                        [-68, -20.5],
+                        [-68, -21],
+                        [-68.49999999999989, -21]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "A-27",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -21,
+                "east" : -68,
+                "north" : -20.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -22,
+                    -67.99999999999999,
+                    -21.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.49999999999989, -22],
+                        [
+                            -68.49999999999989,
+                            -21.5
+                        ],
+                        [-68, -21.5],
+                        [-68, -22],
+                        [-68.49999999999989, -22]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-10",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -22,
+                "east" : -68,
+                "north" : -21.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -22.5,
+                    -67.99999999999999,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -22.5
+                        ],
+                        [-68.49999999999989, -22],
+                        [-68, -22],
+                        [-68, -22.5],
+                        [
+                            -68.49999999999989,
+                            -22.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-15",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -22.5,
+                "east" : -68,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68,
+                    -22.5,
+                    -67.50000000000001,
+                    -22.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68, -22.5],
+                        [-68, -22],
+                        [-67.5, -22],
+                        [-67.5, -22.5],
+                        [-68, -22.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-16",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68,
+                "south" : -22.5,
+                "east" : -67.5,
+                "north" : -22
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -22.999999999999943,
+                    -67.99999999999999,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -22.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -22.5
+                        ],
+                        [-68, -22.5],
+                        [-68, -22.999999999999943],
+                        [
+                            -68.49999999999989,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-21",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -23,
+                "east" : -68,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68,
+                    -22.999999999999943,
+                    -67.50000000000001,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68, -22.999999999999943],
+                        [-68, -22.5],
+                        [-67.5, -22.5],
+                        [
+                            -67.5,
+                            -22.999999999999943
+                        ],
+                        [-68, -22.999999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-22",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68,
+                "south" : -23,
+                "east" : -67.5,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -67.5,
+                    -22.999999999999943,
+                    -67.00000000000001,
+                    -22.500000000000046
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -67.5,
+                            -22.999999999999943
+                        ],
+                        [-67.5, -22.5],
+                        [-67, -22.5],
+                        [-67, -22.999999999999943],
+                        [
+                            -67.5,
+                            -22.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-23",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -67.5,
+                "south" : -23,
+                "east" : -67,
+                "north" : -22.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -23.499999999999943,
+                    -67.99999999999999,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -23.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -22.999999999999943
+                        ],
+                        [-68, -22.999999999999943],
+                        [-68, -23.499999999999943],
+                        [
+                            -68.49999999999989,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-29",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -23.5,
+                "east" : -68,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68,
+                    -23.499999999999943,
+                    -67.50000000000001,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68, -23.499999999999943],
+                        [-68, -22.999999999999943],
+                        [
+                            -67.5,
+                            -22.999999999999943
+                        ],
+                        [
+                            -67.5,
+                            -23.499999999999943
+                        ],
+                        [-68, -23.499999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-30",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68,
+                "south" : -23.5,
+                "east" : -67.5,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -67.5,
+                    -23.499999999999943,
+                    -67.00000000000001,
+                    -22.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -67.5,
+                            -23.499999999999943
+                        ],
+                        [
+                            -67.5,
+                            -22.999999999999943
+                        ],
+                        [-67, -22.999999999999943],
+                        [-67, -23.499999999999943],
+                        [
+                            -67.5,
+                            -23.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-31",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -67.5,
+                "south" : -23.5,
+                "east" : -67,
+                "north" : -23
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -23.999999999999943,
+                    -67.99999999999999,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -23.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.499999999999943
+                        ],
+                        [-68, -23.499999999999943],
+                        [-68, -23.999999999999943],
+                        [
+                            -68.49999999999989,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-37",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -24,
+                "east" : -68,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68,
+                    -23.999999999999943,
+                    -67.50000000000001,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68, -23.999999999999943],
+                        [-68, -23.499999999999943],
+                        [
+                            -67.5,
+                            -23.499999999999943
+                        ],
+                        [
+                            -67.5,
+                            -23.999999999999943
+                        ],
+                        [-68, -23.999999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-38",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68,
+                "south" : -24,
+                "east" : -67.5,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -67.5,
+                    -23.999999999999943,
+                    -67.00000000000001,
+                    -23.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -67.5,
+                            -23.999999999999943
+                        ],
+                        [
+                            -67.5,
+                            -23.499999999999943
+                        ],
+                        [-67, -23.499999999999943],
+                        [-67, -23.999999999999943],
+                        [
+                            -67.5,
+                            -23.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-39",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -67.5,
+                "south" : -24,
+                "east" : -67,
+                "north" : -23.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -24.5,
+                    -67.99999999999999,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -24.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -23.999999999999943
+                        ],
+                        [-68, -23.999999999999943],
+                        [-68, -24.5],
+                        [
+                            -68.49999999999989,
+                            -24.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-45",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -24.5,
+                "east" : -68,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68,
+                    -24.5,
+                    -67.50000000000001,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68, -24.5],
+                        [-68, -23.999999999999943],
+                        [
+                            -67.5,
+                            -23.999999999999943
+                        ],
+                        [-67.5, -24.5],
+                        [-68, -24.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-46",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68,
+                "south" : -24.5,
+                "east" : -67.5,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -67.5,
+                    -24.5,
+                    -67.00000000000001,
+                    -23.999999999999922
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-67.5, -24.5],
+                        [
+                            -67.5,
+                            -23.999999999999943
+                        ],
+                        [-67, -23.999999999999943],
+                        [-67, -24.5],
+                        [-67.5, -24.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-47",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -67.5,
+                "south" : -24.5,
+                "east" : -67,
+                "north" : -24
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -25.5,
+                    -67.99999999999999,
+                    -25.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -25.5
+                        ],
+                        [-68.49999999999989, -25],
+                        [-68, -25],
+                        [-68, -25.5],
+                        [
+                            -68.49999999999989,
+                            -25.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-6",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -25.5,
+                "east" : -68,
+                "north" : -25
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -25,
+                    -67.99999999999999,
+                    -24.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.49999999999989, -25],
+                        [
+                            -68.49999999999989,
+                            -24.5
+                        ],
+                        [-68, -24.5],
+                        [-68, -25],
+                        [-68.49999999999989, -25]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "B-53",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -25,
+                "east" : -68,
+                "north" : -24.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -26,
+                    -70.50000000000001,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -26],
+                        [-71, -25.5],
+                        [-70.5, -25.5],
+                        [-70.5, -26],
+                        [-71, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-7",
+                "title" : "Cifuncho 2530-7030",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -26,
+                "east" : -70.5,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -26,
+                    -69.99999999999991,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -26],
+                        [-70.5, -25.5],
+                        [
+                            -69.99999999999994,
+                            -25.5
+                        ],
+                        [-69.99999999999994, -26],
+                        [-70.5, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-8",
+                "title" : "Cerro Del Pingo 2530-7000",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -26,
+                "east" : -70,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -26,
+                    -69.49999999999996,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.99999999999994, -26],
+                        [
+                            -69.99999999999994,
+                            -25.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -25.5
+                        ],
+                        [-69.49999999999994, -26],
+                        [-69.99999999999994, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-9",
+                "title" : "Altamira 2530-6930",
+                "date" : "1964",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -26,
+                "east" : -69.5,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -26,
+                    -68.99999999999996,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-69.49999999999994, -26],
+                        [
+                            -69.49999999999994,
+                            -25.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -25.5
+                        ],
+                        [-68.99999999999994, -26],
+                        [-69.49999999999994, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-10",
+                "title" : "Exploradora 2530-6900",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -26,
+                "east" : -69,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -26,
+                    -68.49999999999986,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.99999999999994, -26],
+                        [
+                            -68.99999999999994,
+                            -25.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -25.5
+                        ],
+                        [-68.49999999999989, -26],
+                        [-68.99999999999994, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-11",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -26,
+                "east" : -68.5,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -26,
+                    -67.99999999999999,
+                    -25.50000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-68.49999999999989, -26],
+                        [
+                            -68.49999999999989,
+                            -25.5
+                        ],
+                        [-68, -25.5],
+                        [-68, -26],
+                        [-68.49999999999989, -26]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-12",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -26,
+                "east" : -68,
+                "north" : -25.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -26.5,
+                    -70.50000000000001,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -26.5],
+                        [-71, -26],
+                        [-70.5, -26],
+                        [-70.5, -26.5],
+                        [-71, -26.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-13",
+                "title" : "Chañaral 2600-7030",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -26.5,
+                "east" : -70.5,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -26.5,
+                    -69.99999999999991,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-70.5, -26.5],
+                        [-70.5, -26],
+                        [-69.99999999999994, -26],
+                        [
+                            -69.99999999999994,
+                            -26.5
+                        ],
+                        [-70.5, -26.5]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-14",
+                "title" : "Pueblo Hundido 2600-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -26.5,
+                "east" : -70,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -26.5,
+                    -69.49999999999996,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -26.5
+                        ],
+                        [-69.99999999999994, -26],
+                        [-69.49999999999994, -26],
+                        [
+                            -69.49999999999994,
+                            -26.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-15",
+                "title" : "El Salvador 2600-6930",
+                "date" : "1966",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -26.5,
+                "east" : -69.5,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -26.5,
+                    -68.99999999999996,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -26.5
+                        ],
+                        [-69.49999999999994, -26],
+                        [-68.99999999999994, -26],
+                        [
+                            -68.99999999999994,
+                            -26.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-16",
+                "title" : "Potrerillos 2600-6900",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -26.5,
+                "east" : -69,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -26.5,
+                    -68.49999999999986,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -26.5
+                        ],
+                        [-68.99999999999994, -26],
+                        [-68.49999999999989, -26],
+                        [
+                            -68.49999999999989,
+                            -26.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-17",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -26.5,
+                "east" : -68.5,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -26.5,
+                    -67.99999999999999,
+                    -26.00000000000001
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -26.5
+                        ],
+                        [-68.49999999999989, -26],
+                        [-68, -26],
+                        [-68, -26.5],
+                        [
+                            -68.49999999999989,
+                            -26.5
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-18",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -26.5,
+                "east" : -68,
+                "north" : -26
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -26.999999999999943,
+                    -70.50000000000001,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -26.999999999999943],
+                        [-71, -26.5],
+                        [-70.5, -26.5],
+                        [
+                            -70.5,
+                            -26.999999999999943
+                        ],
+                        [-71, -26.999999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-19",
+                "title" : "Puerto Flamenco 2630-7030",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -27,
+                "east" : -70.5,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -26.999999999999943,
+                    -69.99999999999991,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -26.999999999999943
+                        ],
+                        [-70.5, -26.5],
+                        [
+                            -69.99999999999994,
+                            -26.5
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -26.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-20",
+                "title" : "Guebrada Salitrosa 2630-7000",
+                "date" : "1961",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -27,
+                "east" : -70,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -26.999999999999943,
+                    -69.49999999999996,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.5
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-21",
+                "title" : "Inca De Oro 2630-6930",
+                "date" : "1964",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -27,
+                "east" : -69.5,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -26.999999999999943,
+                    -68.99999999999996,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.5
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-22",
+                "title" : "Salar De Maricunga 2630-6900",
+                "date" : "1968",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -27,
+                "east" : -69,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -26.999999999999943,
+                    -68.49999999999986,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -26.5
+                        ],
+                        [
+                            -68.49999999999989,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-23",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -27,
+                "east" : -68.5,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -26.999999999999943,
+                    -67.99999999999999,
+                    -26.500000000000043
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -26.5
+                        ],
+                        [-68, -26.5],
+                        [-68, -26.999999999999943],
+                        [
+                            -68.49999999999989,
+                            -26.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-24",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -27,
+                "east" : -68,
+                "north" : -26.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -27.499999999999943,
+                    -70.50000000000001,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -27.499999999999943],
+                        [-71, -26.999999999999943],
+                        [
+                            -70.5,
+                            -26.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -27.499999999999943
+                        ],
+                        [-71, -27.499999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-25",
+                "title" : "Caldera 2700-7030",
+                "date" : "1966",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -27.5,
+                "east" : -70.5,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -27.499999999999943,
+                    -69.99999999999991,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -27.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -27.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-26",
+                "title" : "Copiapó",
+                "date" : "1967",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -27.5,
+                "east" : -70,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -27.499999999999943,
+                    -69.49999999999996,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-27",
+                "title" : "Carrera Pinto 2700-6930",
+                "date" : "1965",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -27.5,
+                "east" : -69.5,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -27.499999999999943,
+                    -68.99999999999996,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-28",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -27.5,
+                "east" : -69,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.99999999999994,
+                    -27.499999999999943,
+                    -68.49999999999986,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -26.999999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -27.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -27.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-29",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69,
+                "south" : -27.5,
+                "east" : -68.5,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -68.49999999999989,
+                    -27.499999999999943,
+                    -67.99999999999999,
+                    -26.999999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -68.49999999999989,
+                            -27.499999999999943
+                        ],
+                        [
+                            -68.49999999999989,
+                            -26.999999999999943
+                        ],
+                        [-68, -26.999999999999943],
+                        [-68, -27.499999999999943],
+                        [
+                            -68.49999999999989,
+                            -27.499999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-30",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -68.5,
+                "south" : -27.5,
+                "east" : -68,
+                "north" : -27
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71.5,
+                    -27.999999999999943,
+                    -71.00000000000001,
+                    -27.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -71.5,
+                            -27.999999999999943
+                        ],
+                        [
+                            -71.5,
+                            -27.499999999999943
+                        ],
+                        [-71, -27.499999999999943],
+                        [-71, -27.999999999999943],
+                        [
+                            -71.5,
+                            -27.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-31",
+                "title" : "Totoral Bajo 2730-7400",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71.5,
+                "south" : -28,
+                "east" : -71,
+                "north" : -27.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -71,
+                    -27.999999999999943,
+                    -70.50000000000001,
+                    -27.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [-71, -27.999999999999943],
+                        [-71, -27.499999999999943],
+                        [
+                            -70.5,
+                            -27.499999999999943
+                        ],
+                        [
+                            -70.5,
+                            -27.999999999999943
+                        ],
+                        [-71, -27.999999999999943]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-32",
+                "title" : "Castilla 2730-7030",
+                "date" : "1963",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -71,
+                "south" : -28,
+                "east" : -70.5,
+                "north" : -27.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -70.5,
+                    -27.999999999999943,
+                    -69.99999999999991,
+                    -27.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -70.5,
+                            -27.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.999999999999943
+                        ],
+                        [
+                            -70.5,
+                            -27.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-33",
+                "title" : "Los Loros 2730-7000",
+                "date" : "1965",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70.5,
+                "south" : -28,
+                "east" : -70,
+                "north" : -27.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.99999999999994,
+                    -27.999999999999943,
+                    -69.49999999999996,
+                    -27.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.99999999999994,
+                            -27.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.999999999999943
+                        ],
+                        [
+                            -69.99999999999994,
+                            -27.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-34",
+                "title" : "La Guardia 2730-6930",
+                "date" : "1967",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "1",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "true",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -70,
+                "south" : -28,
+                "east" : -69.5,
+                "north" : -27.5
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -69.49999999999994,
+                    -27.999999999999943,
+                    -68.99999999999996,
+                    -27.499999999999954
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -69.49999999999994,
+                            -27.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -27.499999999999943
+                        ],
+                        [
+                            -68.99999999999994,
+                            -27.999999999999943
+                        ],
+                        [
+                            -69.49999999999994,
+                            -27.999999999999943
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "Shape_Leng" : 2,
+                "Shape_Area" : 0.25,
+                "label" : "C-35",
+                "title" : "",
+                "date" : "",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : false,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "false",
+                "fileName" : "",
+                "west" : -69.5,
+                "south" : -28,
+                "east" : -69,
+                "north" : -27.5
+            }
+        }
+    ],
+    "fileName" : "Grid_4770s_100_c5"
+}
