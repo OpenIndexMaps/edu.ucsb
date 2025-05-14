@@ -1,0 +1,96 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -103.1739490813757,
+                    32.16926603413855
+                ]
+            },
+            "properties" : {
+                "rollNo" : "apcpai-5081",
+                "label" : "89V-82",
+                "recId" : "apfpai-89v-9-89v-82",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3w099cx",
+                "available" : true,
+                "scale" : "1:2400"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -103.17390722045707,
+                    32.17269198058046
+                ]
+            },
+            "properties" : {
+                "rollNo" : "apcpai-5081",
+                "label" : "89V-83",
+                "recId" : "apfpai-89v-9-89v-83",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3ht2str",
+                "available" : true,
+                "scale" : "1:2400"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -103.17405059753155,
+                    32.17525215716379
+                ]
+            },
+            "properties" : {
+                "rollNo" : "apcpai-5081",
+                "label" : "89V-84",
+                "recId" : "apfpai-89v-9-89v-84",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3mk6hcn",
+                "available" : true,
+                "scale" : "1:2400"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -103.17380475699987,
+                    32.177894692149394
+                ]
+            },
+            "properties" : {
+                "rollNo" : "apcpai-5081",
+                "label" : "89V-85",
+                "recId" : "apfpai-89v-9-89v-85",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f35h7kr2",
+                "available" : true,
+                "scale" : "1:2400"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -103.17416007094477,
+                    32.18088695674748
+                ]
+            },
+            "properties" : {
+                "rollNo" : "apcpai-5081",
+                "label" : "89V-86",
+                "recId" : "apfpai-89v-9-89v-86",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f35h7kr2",
+                "available" : true,
+                "scale" : "1:2400"
+            }
+        }
+    ],
+    "fileName" : "apfpai-89V-9"
+}
