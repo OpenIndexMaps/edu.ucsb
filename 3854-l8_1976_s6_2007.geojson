@@ -1,0 +1,202 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -118.64449099427502,
+                    33.850653230900264,
+                    -118.37118092962034,
+                    34.02068118626323
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -118.64449099427502,
+                            34.01733962985742
+                        ],
+                        [
+                            -118.37385028829203,
+                            34.02068118626323
+                        ],
+                        [
+                            -118.37118092962034,
+                            33.85391155574291
+                        ],
+                        [
+                            -118.64126839289321,
+                            33.850653230900264
+                        ],
+                        [
+                            -118.64449099427502,
+                            34.01733962985742
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "label" : "7",
+                "title" : "LOS-ANDZhELES List 7",
+                "date" : "1976",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3c24z3b",
+                "fileName" : "LosAngeles07nad83.tif"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -118.37385028829203,
+                    33.85391155574291,
+                    -118.10109627483236,
+                    34.02345291944221
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -118.37385028829203,
+                            34.02068118626323
+                        ],
+                        [
+                            -118.10320735066297,
+                            34.02345291944221
+                        ],
+                        [
+                            -118.10109627483236,
+                            33.85667490763086
+                        ],
+                        [
+                            -118.37118092962034,
+                            33.85391155574291
+                        ],
+                        [
+                            -118.37385028829203,
+                            34.02068118626323
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "label" : "8",
+                "title" : "LOS-ANDZhELES List 8",
+                "date" : "1976",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3rb7697",
+                "fileName" : "LosAngeles08nad83.tif"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -118.64126839289321,
+                    33.68394467678485,
+                    -118.36856976398975,
+                    33.85391155574291
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -118.64126839289321,
+                            33.850653230900264
+                        ],
+                        [
+                            -118.37118092962034,
+                            33.85391155574291
+                        ],
+                        [
+                            -118.36856976398975,
+                            33.687203001627495
+                        ],
+                        [
+                            -118.63825722726267,
+                            33.68394467678485
+                        ],
+                        [
+                            -118.64126839289321,
+                            33.850653230900264
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "label" : "10",
+                "title" : "LOS-ANDZhELES List 10",
+                "date" : "1976",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3mk6fkh",
+                "fileName" : "LosAngeles10nad83.tif"
+            }
+        },
+        {
+            "type" : "Feature",
+            "geometry" : {
+                "bbox" : [
+                    -118.37118092962034,
+                    33.687203001627495,
+                    -118.09893943063042,
+                    33.85667490763086
+                ],
+                "type" : "Polygon",
+                "coordinates" : [
+                    [
+                        [
+                            -118.37118092962034,
+                            33.85391155574291
+                        ],
+                        [
+                            -118.10109627483236,
+                            33.85667490763086
+                        ],
+                        [
+                            -118.09893943063042,
+                            33.6898512652844
+                        ],
+                        [
+                            -118.36856976398975,
+                            33.687203001627495
+                        ],
+                        [
+                            -118.37118092962034,
+                            33.85391155574291
+                        ]
+                    ]
+                ]
+            },
+            "properties" : {
+                "label" : "11",
+                "title" : "LOS-ANDZhELES List 11",
+                "date" : "1976",
+                "datePub" : "",
+                "dateReprnt" : "",
+                "edition" : "",
+                "available" : true,
+                "inst" : "UC Santa Barbara",
+                "physHold" : "false",
+                "digHold" : "https://alexandria.ucsb.edu/lib/ark:/48907/f3gt5pvs",
+                "fileName" : "LosAngeles11nad83.tif"
+            }
+        }
+    ],
+    "fileName" : "3854-l8_1976_s6_2007_comet_test"
+}
